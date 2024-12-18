@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository 📑
 
-git clone https://github.com/P-Vaviya/Web-Scroller.git
+ - git clone https://github.com/P-Vaviya/Web-Scroller.git
 
 2. Download the appropriate WebDriver and ensure it's in your system's path ⬇️
 
@@ -35,4 +35,7 @@ git clone https://github.com/P-Vaviya/Web-Scroller.git
 
 
 # Follow me 
-Stay tuned for upgraded features and enhancements in future releases 🚀! We are continuously working to improve the functionality and usability of this project 🛠️ . Your feedback and suggestions are always welcome 📣!
+Stay tuned for upgraded features and enhancements in future releases 🚀! 
+We are continuously working to improve the functionality and usability of this project 🛠️ . 
+
+Your feedback and suggestions are always welcome 📣!
